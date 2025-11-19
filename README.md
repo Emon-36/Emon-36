@@ -11,8 +11,9 @@ I build real-world AI systems that don’t just run—they *perform*. From deplo
 - **🧠 ML Deployment**: ONNX/TFLite inference, post-processing pipelines, and class-aware filtering for object detection.
 - **📦 Edge Integration**: Armbian boards, Android boxes, USB serial, stepper drivers—if it’s embedded, I’ve probably debugged it.
 - **⚡ Microgrid Control**: Predictive charging, fault detection, and dynamic safety logic for AI-powered energy systems.
-- **✍️ Handwriting Generation**: Deterministic replication of personal handwriting curves using AI and plotter control.
 - **📱 Android UI (Jetpack Compose)**: Real-time dashboards, control panels, and safety-first UX for edge-connected systems.
+- **✍️ Handwriting Generation**: Deterministic replication of personal handwriting curves using AI and plotter control.
+- **🧠 ESP32 Sensor Fusion**: Kalman Filter-based fusion of GPS, barometric, and thermal data for real-time state estimation and control.
 - **🛠️ Hardware Selection**: CC/CV buck/boost modules, PWM controllers, fallback paths—optimized for demo impact and control.
 - **📁 Workflow Engineering**: Reproducible pipelines, organized experiments, and rapid iteration for deployment confidence.
 
