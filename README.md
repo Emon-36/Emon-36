@@ -32,7 +32,7 @@ Features:
 - Upload documents and chat with them instantly
 - Modular pipeline for embedding, retrieval, and generation
 
-[View Repo](https://github.com/Emon-36/ChatbotUsingLLM)
+Repository: [ChatbotUsingLLM](https://github.com/Emon-36/ChatbotUsingLLM)
 
 ---
 
@@ -46,6 +46,8 @@ Highlights:
 - PID/PN guidance logic for fin actuation
 - Ground Control App with Dijkstra-based path planning and simulation mode
 - Future radar integration planned for long-range robustness
+
+Repository: [Multidimensional-Advanced-Robot-Control-System-MARCS](https://github.com/Emon-36/Multidimensional-Advanced-Robot-Control-System-MARCS)
 
 ---
 
@@ -68,6 +70,19 @@ Impact & Deployability:
 
 ---
 
+## Resistor Color Detector
+
+A computer vision pipeline for detecting resistor color bands and decoding resistance values using YOLOv8 and OpenCV.
+
+Highlights:
+- YOLOv8-based detection of resistor bands
+- OpenCV post-processing and resistance decoding
+- Designed for mobile deployment and automated QA
+
+Repository: [Resistor-color-detector](https://github.com/Emon-36/Resistor-color-detector)
+
+---
+
 ## Current Focus
 
 Preparing a judge-ready demo of my AI-driven microgrid system:
@@ -80,11 +95,12 @@ Preparing a judge-ready demo of my AI-driven microgrid system:
 
 ## Recent Projects
 
-- Resistor band detection with YOLO11n/YOLO12n for mobile deployment
-- Zero-augmentation training runs for edge inference
-- Handwriting plotter with servo delay calibration (15ms/deg)
-- Hardware benchmarking: X96Q vs. RDK X5
-- Demo scripting, fault logs, and dashboard capture
+- Resistor band detection with YOLO11n/YOLO12n for mobile deployment  
+  [Resistor-color-detector](https://github.com/Emon-36/Resistor-color-detector)
+- Zero-augmentation training runs for edge inference  
+- Handwriting plotter with servo delay calibration (15ms/deg)  
+- Hardware benchmarking: X96Q vs. RDK X5  
+- Demo scripting, fault logs, and dashboard capture  
 
 ---
 
