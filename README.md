@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Emon
 
-**Electrical & Electronic Engineer | ML Deployment Specialist | Edge AI Systems Architect | Startup Strategist**
+**Electrical & Electronic Engineer | ML Deployment Specialist | Edge AI Systems Architect | Android UI Developer | Startup Strategist**
 
-I build real-world AI systems that don’t just run—they *perform*. From deploying custom YOLO models on Android boxes to architecting predictive microgrid controllers, I specialize in turning machine learning into machine action.
+I build real-world AI systems that don’t just run—they *perform*. From deploying custom YOLO models on Android boxes to architecting predictive microgrid controllers and crafting Jetpack Compose UIs, I specialize in turning machine learning into machine action.
 
 ---
 
@@ -12,6 +12,7 @@ I build real-world AI systems that don’t just run—they *perform*. From deplo
 - **📦 Edge Integration**: Armbian boards, Android boxes, USB serial, stepper drivers—if it’s embedded, I’ve probably debugged it.
 - **⚡ Microgrid Control**: Predictive charging, fault detection, and dynamic safety logic for AI-powered energy systems.
 - **✍️ Handwriting Generation**: Deterministic replication of personal handwriting curves using AI and plotter control.
+- **📱 Android UI (Jetpack Compose)**: Real-time dashboards, control panels, and safety-first UX for edge-connected systems.
 - **🛠️ Hardware Selection**: CC/CV buck/boost modules, PWM controllers, fallback paths—optimized for demo impact and control.
 - **📁 Workflow Engineering**: Reproducible pipelines, organized experiments, and rapid iteration for deployment confidence.
 
@@ -19,7 +20,7 @@ I build real-world AI systems that don’t just run—they *perform*. From deplo
 
 ## 🤖 Offline Chatbot with Streamlit + Ollama + RAG
 
-I built a fully **offline chatbot interface** using:
+A fully **offline chatbot interface** using:
 
 - **Ollama Embeddings** for semantic document search  
 - **RAG (Retrieval-Augmented Generation)** for grounded, context-aware responses  
@@ -30,7 +31,7 @@ I built a fully **offline chatbot interface** using:
 - Upload documents and chat with them instantly
 - Modular pipeline for embedding, retrieval, and generation
 
-This project reflects my commitment to **privacy-first, edge-deployable AI**.
+[🔗 View Repo](https://github.com/Emon-36/ChatbotUsingLLM)
 
 ---
 
@@ -45,8 +46,6 @@ A real-time guided rocket platform integrating vision, control, and navigation i
 - Ground Control App with Dijkstra-based path planning and simulation mode
 - Future radar integration planned for long-range robustness
 
-Built to demonstrate autonomous targeting, fault resilience, and modular control.
-
 ---
 
 ## ⚡ AI-Powered Smart Solar Microgrid
@@ -58,13 +57,8 @@ A household-scale, edge-first microgrid that blends **AI forecasting**, **batter
 - LSTM/TCN/1D-CNN models for PV forecasting (TFLite/ONNX)
 - Hybrid rule-AI controller with SoC thresholds and load priority logic
 - TRIAC fan control with zero-cross detection and PF correction via switchable LC banks
-- Android app for dashboard, manual overrides, and emergency stop
+- Android app (Jetpack Compose) for dashboard, manual overrides, and emergency stop
 - Safety architecture: opto-isolated relays, watchdog heartbeat, fault injection logic
-
-**Validation & Testing:**
-- Sensor calibration, thermal imaging, fault injection, PF/THD scope traces
-- Repeatable 90s demo runs with logs and backup video
-- KPI sheet: forecast MAE, solar self-consumption %, grid kWh reduction, inference latency
 
 **Impact & Deployability:**
 - Designed for off-grid and BD rural contexts
@@ -122,3 +116,4 @@ Feel free to reach out if you're interested in:
 - Collaborating on edge AI projects
 - Building reproducible ML pipelines
 - Exploring AI-powered hardware systems
+- Designing Android UIs for real-time control and telemetry
