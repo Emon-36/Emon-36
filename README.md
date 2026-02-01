@@ -114,6 +114,10 @@ Preparing a **judge-ready demo** of my AI-driven microgrid system:
 - **Finalist – Hult Prize On Campus**  
   Selected among top innovators for the world’s largest student entrepreneurship challenge
 
+- **UIHP Grant**  
+  Granted 45k BDT from University Innovation Hub-UIHP for business ideation.
+
+
 These experiences sharpened my ability to:
 - **Translate technical systems** into viable business models
 - **Communicate complex ideas** to non-technical audiences
