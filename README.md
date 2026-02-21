@@ -20,6 +20,8 @@ I build real-world AI systems that don’t just run—they **perform**. From dep
 ![TensorFlow Lite](https://img.shields.io/badge/Edge_ML-TFLite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/Vision-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Shell_Scripting-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 - **ML Deployment**: ONNX/TFLite inference, post-processing pipelines, and class-aware filtering for object detection  
 - **Edge Integration**: Armbian boards, Android boxes, USB serial, stepper drivers—if it’s embedded, I’ve probably debugged it  
