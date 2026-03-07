@@ -183,7 +183,7 @@ My focus is making AI work where it shouldn't — on low-cost, offline, constrai
 - ⚡ Energy monitoring with monthly bill estimation
 - 🎨 Color-coded room themes
 
-[![Repo](https://img.shields.io/badge/GitHub-SmartHub-181717?style=for-the-badge&logo=github)](https://github.com/Emon-36)
+[![Repo](https://img.shields.io/badge/GitHub-SmartHub-181717?style=for-the-badge&logo=github)](https://github.com/Emon-36/LoRa-Nexus-SmartHome)
 
 ---
 
